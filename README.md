@@ -7,8 +7,8 @@
 <table>
   <tr>
     <td style="text-align: center;">
-      👩‍🎓 한국외국어대학교 몽골어과 졸업 (경제학 이중전공)<br>
-      🏫 삼성 청년 소프트웨어 아카데미 (SSAFY) 11기 Python반<br>
+      👩‍🎓 한국외국어대학교 몽골어과 졸업 (+경제학사)<br>
+      🏫 삼성 청년 소프트웨어 아카데미 (SSAFY) 11기<br>
       💻 삼성 소프트웨어 역량테스트 B형(Pro) 취득<br>
       💾 SQLD (SQL 개발자)
     </td>
