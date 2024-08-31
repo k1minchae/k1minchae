@@ -1,10 +1,12 @@
-<div align="center" style="width: 50%">
-  <img align="center" src="https://github.com/user-attachments/assets/2ac01cf4-36fd-4526-ab84-e4c7f65856e7" />
+<div align="center" style="width: 100%">
+  <img align="center" src="https://github.com/user-attachments/assets/25b25176-9487-4e41-97fd-cecc064cf464" />
 </div>
+
+<br>
 
 <h3 align="center">👩‍💻 About Me </h3>
 
-<table>
+<table align="center">
   <tr>
     <td style="text-align: center;">
       👩‍🎓 한국외국어대학교 몽골어과 졸업 <br>
@@ -19,6 +21,19 @@
     </td>
   </tr>
 </table>
+
+<br>
+
+<h3 align="center">📞 Contact</h3>
+<div align="center"> 
+<a href="https://kiminchae.tistory.com/" style="text-decoration: none; color: inherit;">
+  <img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white">
+</a>
+<a href="mailto:kiminchae@naver.com" style="text-decoration: none; color: inherit;">
+  <img src="https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+</div>
 
 <br>
 
@@ -51,17 +66,14 @@
 <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">&nbsp;
 </div>
-<h3 align="center">📞 Contact</h3>
-<div align="center"> 
-<a href="https://kiminchae.tistory.com/" style="text-decoration: none; color: inherit;">
-  <img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white">&nbsp;
-</a>
-<a href="mailto:kiminchae@naver.com" style="text-decoration: none; color: inherit;">
-  <img src="https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">&nbsp;
-</a>
 
-</div>
 
 <br>
 
-<!-- ![Minchae's GitHub stats](https://github-readme-stats.vercel.app/api?username=k1minchae&show_icons=true&theme=radical) -->
+---
+
+<div align="center">
+  
+![Minchae's GitHub stats](https://github-readme-stats.vercel.app/api?username=k1minchae&show_icons=true&theme=radical)
+
+</div>
