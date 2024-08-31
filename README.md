@@ -7,7 +7,7 @@
 <table>
   <tr>
     <td style="text-align: center;">
-      👩‍🎓 한국외국어대학교 몽골어과 졸업 (+경제학사)<br>
+      👩‍🎓 한국외국어대학교 몽골어과 졸업 <br>
       🏫 삼성 청년 소프트웨어 아카데미 (SSAFY) 11기<br>
       💻 삼성 소프트웨어 역량테스트 B형(Pro) 취득<br>
       💾 SQLD (SQL 개발자)
@@ -53,12 +53,13 @@
 </div>
 <h3 align="center">📞 Contact</h3>
 <div align="center"> 
-  <a href="https://kiminchae.tistory.com/">
-    <img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white">&nbsp;
-  </a>
-  <a href="mailto:kiminchae@naver.com">
-    <img src="https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">&nbsp;
-  </a>
+<a href="https://kiminchae.tistory.com/" style="text-decoration: none; color: inherit;">
+  <img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white">&nbsp;
+</a>
+<a href="mailto:kiminchae@naver.com" style="text-decoration: none; color: inherit;">
+  <img src="https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">&nbsp;
+</a>
+
 </div>
 
 <br>
