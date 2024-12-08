@@ -74,6 +74,6 @@
 
 <div align="center">
   
-![Minchae's GitHub stats](https://github-readme-stats.vercel.app/api?username=k1minchae&show_icons=true&theme=radical)
+﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k1minchae&langs_count=10&layout=compact&theme=dark)](https://github.com/k1minchae/k1minchae)﻿
 
 </div>
