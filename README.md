@@ -4,16 +4,27 @@
 
 <br>
 
+<h2>📝 Education </h2>
+
+- 👩‍🎓 한국외국어대학교 몽골어과 졸업 (경제학 이중전공)
+- 💻 삼성 청년 SW 아카데미 (SSAFY) 11기
+- 💽 LS 빅데이터 스쿨 4기
+
+<h2>📜 Certification</h2>
+
+- SQLD (SQL 개발자)
+
+- TOEIC Speaking IH
+- 은행 FP (자산관리사)
+
 <h2>👩‍💻 About Me </h2>
 
 <table>
   <tr>
     <td style="width: 50%;">
-      👩‍🎓 한국외국어대학교 몽골어과 졸업 <br>
-      🏫 삼성 청년 소프트웨어 아카데미 (SSAFY) 11기<br>
-      🏫 LS 빅데이터 스쿨 4기<br>
-      💻 삼성 소프트웨어 역량테스트 B형(Pro) 취득<br>
-      💾 SQLD (SQL 개발자)
+      - 비전공자지만 집요함으로 개발자의 길을 걷고 있습니다 <br>
+      - 금융·통계 경험으로 데이터 문제 해결에 강합니다 <br>
+      - 꼼꼼함으로 팀과 서비스 완성도를 높입니다
     </td>
     <td style="text-align: center;">
       <a href="https://solved.ac/kiminchae">
