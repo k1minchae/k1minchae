@@ -4,21 +4,6 @@
 
 <br>
 
-<h2>📝 Education </h2>
-
-- 한국외국어대학교 몽골어과 졸업 (경제학 이중전공) **2016.02~2022.02**
-
-- 삼성 청년 SW 아카데미 (SSAFY) 11기 **2024.01~2024.12**
-
-- LS 빅데이터 스쿨 4기 **2025.02~2025.06**
-
-<h2>📜 Certification</h2>
-
-- SQLD (SQL 개발자)
-
-- TOEIC Speaking IH
-- 은행 FP (자산관리사)
-
 <h2>👩‍💻 About Me </h2>
 
 <table>
@@ -38,6 +23,21 @@
 </table>
 
 <hr>
+
+<h2>📝 Education </h2>
+
+- 한국외국어대학교 몽골어과 졸업 (경제학 이중전공) **2016.02~2022.02**
+
+- 삼성 청년 SW 아카데미 (SSAFY) 11기 **2024.01~2024.12**
+
+- LS 빅데이터 스쿨 4기 **2025.02~2025.06**
+
+<h2>📜 Certification</h2>
+
+- SQLD (SQL 개발자)
+
+- TOEIC Speaking IH
+- 은행 FP (자산관리사)
 
 <h2>📝 Projects</h2>
 <blockquote>
