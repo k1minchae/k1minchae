@@ -35,6 +35,7 @@
 <h2>📜 Certification</h2>
 
 - SQLD (SQL 개발자)
+- 삼성 SW 역량 테스트 Level B (Pro)
 
 - TOEIC Speaking IH
 - 은행 FP (자산관리사)
