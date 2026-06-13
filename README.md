@@ -8,12 +8,6 @@
 
 <table>
   <tr>
-    <td style="width: 50%;">
-    비전공자지만 집요함으로 개발자의 길을 걷고 있습니다.<br>
-금융·통계 경험으로 데이터 문제 해결에 강합니다. <br>
-꼼꼼함으로 팀과 서비스 완성도를 높입니다. <br>
-매일 배우고 실험하며 성장합니다.
-    </td>
     <td style="text-align: center;">
       <a href="https://solved.ac/kiminchae">
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kiminchae" alt="Solved.ac 프로필">
@@ -35,10 +29,13 @@
 <h2>📜 Certification</h2>
 
 - SQLD (SQL 개발자)
+- ADsP (데이터분석준전문가)
+- 정보처리기사
 - 삼성 SW 역량 테스트 Level B (Pro)
-
 - TOEIC Speaking IH
 - 은행 FP (자산관리사)
+- AFPK (재무설계사)
+- 컴퓨터활용능력 1급
 
 <h2>📝 Projects</h2>
 <blockquote>
